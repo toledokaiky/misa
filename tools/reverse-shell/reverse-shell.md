@@ -2,4 +2,6 @@
 
 ### Bash
 interpretador de comandos simples
-```olá```
+```
+olá
+```
